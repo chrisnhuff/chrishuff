@@ -11,6 +11,6 @@ This is the personal site of Chris Huff.
 {% assign post = site.posts.first %}
 
 {% for post in site.posts %}
-      [{{ post.title }}]({{ site.url }}{{ post.url | relative_url }})
+      [{{ post.title }}]({{ site.url }}{{ post.url }})
       {{ post.excerpt }}
   {% endfor %}
