@@ -2,6 +2,6 @@
 layout: default
 title: About
 ---
-#About me
+# bout me
 
 I am telling you about me.
