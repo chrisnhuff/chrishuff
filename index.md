@@ -7,10 +7,10 @@ title: Home
 This is the personal site of Chris Huff.
 
 ## Posts
-{{ site.baseurl }}
+{{ site.url }}
 {% assign post = site.posts.first %}
 
 {% for post in site.posts %}
-      [{{ post.title }}]({{site.baseurl}}{{ post.url | relative_url }})
+      [{{ post.title }}]({{ site.url }}{{ post.url | relative_url }})
       {{ post.excerpt }}
   {% endfor %}
