@@ -7,7 +7,7 @@ title: Home
 This is the personal site of Chris Huff.
 
 ## Posts
-
+{{site.baseurl}}
 {% assign post = site.posts.first %}
 
 {% for post in site.posts %}
