@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trying to make a new post
+title: "first-post"
 date: 2024-08-29 12:22:00 -0500
 ---
 # First posts are a thing
