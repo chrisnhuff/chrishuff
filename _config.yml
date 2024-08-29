@@ -3,3 +3,10 @@ title: Chris Huff's website
 description: Working as intended.
 url: https://chrisnhuff.github.io
 baseurl: /
+nav:
+  - title: Home
+    url: /
+    title: About
+    url: /about
+    title: Blog
+    url: /blog
