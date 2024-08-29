@@ -12,5 +12,5 @@ This is the personal site of Chris Huff.
 
 {% for post in site.posts %}
       [{{ post.title }}]({{ post.url }})
-      {{ post.excerpt }
+      {{ post.excerpt }}
   {% endfor %}
