@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: Home
 title: "Chris Huff's Home"
-permalink: /index
 ---
 # Welcome!
 This is page content.
