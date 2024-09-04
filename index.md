@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Chris Huff's Home"
 permalink: /index
 ---
