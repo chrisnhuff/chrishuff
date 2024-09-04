@@ -4,10 +4,11 @@ baseurl: ""
 
 # Theme Config
 remote_theme: sylhare/Type-on-Strap
-title: Chris Huff's website
+title: Chris Huff
 header_text: Working as intended
 footer_text: Copyright 2024
 description: Working as intended.
+avatar: assets/img/avatar.png
 color_theme: auto
 
 # Blog
