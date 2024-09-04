@@ -1,19 +1,22 @@
+# Site Config
+url: https://chrisnhuff.github.io
+baseurl: "page"
+
+# Theme Config
 remote_theme: sylhare/Type-on-Strap
 title: Chris Huff's website
 header_text: Working as intended
 footer_text: Copyright 2024
 description: Working as intended.
 color_theme: auto
-url: https://chrisnhuff.github.io
-baseurl: ""
+
+# Blog
+excerpt: true
 post_navigation: true
+
+# Pagination
 paginate: 10
 paginate_path: "blog/page:num"
+
+# Build settings
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
-nav:
-  - title: Home
-    url: /
-    title: About
-    url: /about
-    title: Blog
-    url: /blog
