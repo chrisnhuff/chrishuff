@@ -1,8 +1,10 @@
-remote_theme: jekyll-theme-chirpy
+remote_theme: pages-themes/minimal@v0.2.0
 title: Chris Huff's website
 description: Working as intended.
 url: https://chrisnhuff.github.io
 baseurl: /
+plugins:
+  - jekyll-remote-theme
 nav:
   - title: Home
     url: /
