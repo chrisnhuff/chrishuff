@@ -12,6 +12,7 @@ footer_text: Copyright 2024
 description: Working as intended.
 avatar: assets/img/avatar.png
 color_theme: auto
+favicon: assets/favicon.ico
 
 # Blog
 excerpt: true
