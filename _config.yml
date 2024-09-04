@@ -1,10 +1,15 @@
 remote_theme: sylhare/Type-on-Strap
 title: Chris Huff's website
+header_text: Working as intended
+footer_text: Copyright 2024
 description: Working as intended.
+color_theme: auto
 url: https://chrisnhuff.github.io
-baseurl: /
-plugins:
-  - jekyll-remote-theme
+baseurl: ""
+post_navigation: true
+paginate: 10
+paginate_path: "blog/page:num"
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 nav:
   - title: Home
     url: /
