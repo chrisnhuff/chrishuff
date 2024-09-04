@@ -6,7 +6,6 @@ author: Chris Huff
 tags: personal
 excerpt_separator: <!--more-->
 ---
-## Let's try something different
 
 Because sometimes I want to try something new (and I also want to stop paying so much money to Squarespace), I am trying out Github Pages.  
 <!--more-->
