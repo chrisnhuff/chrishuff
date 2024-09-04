@@ -1,7 +1,7 @@
 ---
 layout: search
 title: Search
-icon: "search"
+icon: "fa-search"
 permalink: /search/
 hide: false
 position: 5
