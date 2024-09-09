@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fall 2024"
-date: 2024-009-09 10:00:00 -0500
+date: 2024-009-09 09:41:00 -0500
 author: Chris Huff
 tags: personal
 excerpt_separator: <!--more-->
